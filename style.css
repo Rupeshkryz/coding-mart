@@ -1,0 +1,33 @@
+
+.car1, .car2{
+    font-size: 50px;
+    color: red;
+}
+.lane{
+    width: 300px;
+    height: 500px;
+    background: black;
+    border-right: 20px solid white;
+}
+.lane2{
+    width: 300px;
+    height: 500px;
+    background: black;
+}
+.lane1 .car1 {
+    text-align: center;
+}
+#myimage4{
+    margin-top: 50px;
+}
+.car3{
+    font-size: 50px;
+    color: red;
+
+}
+.space {
+    padding-top: 5rem;
+}
+.track{
+    color:white;
+}
